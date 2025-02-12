@@ -1,0 +1,18 @@
+.cao{
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+    padding: 3px;
+}
+.the{
+    text-align: center;
+}
+.huy{
+    position: relative;
+    bottom: 100px;
+}
+.kao{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 10px;
+}
