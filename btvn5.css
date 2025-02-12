@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.ndung{
+    background-color: rgb(33, 62, 4);
+    color:white;
+    padding: 10px;
+}
+.ndung1{
+    display: inline-block;
+    width: 80%;
+}
+.ndung2{
+    text-decoration: none;
+    color: white;
+}
+.chude{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(219, 210, 200);
+    line-height: 40px;
+}
+.button1{
+    background-color: rgb(135, 204, 66);
+    border:0;
+    border-radius:5px;
+    padding:5px;
+}
+.button2{
+    width: 495px;
+    border:0;
+    border-radius:5px;
+    padding:5px;
+    background-color: rgb(222, 207, 190);
+    margin-left: 10px;
+}
+.ghichu{
+    color:white;
+    background-color: rgb(12, 97, 12);
+    text-align: center;
+    padding:10px;
+}
